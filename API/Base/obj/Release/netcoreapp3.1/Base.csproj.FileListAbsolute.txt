@@ -1,0 +1,11 @@
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Base\bin\Release\netcoreapp3.1\Base.deps.json
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Base\bin\Release\netcoreapp3.1\Base.runtimeconfig.json
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Base\bin\Release\netcoreapp3.1\Base.runtimeconfig.dev.json
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Base\bin\Release\netcoreapp3.1\Base.dll
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Base\bin\Release\netcoreapp3.1\Base.pdb
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Base\obj\Release\netcoreapp3.1\Base.AssemblyInfoInputs.cache
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Base\obj\Release\netcoreapp3.1\Base.AssemblyInfo.cs
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Base\obj\Release\netcoreapp3.1\Base.csproj.CoreCompileInputs.cache
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Base\obj\Release\netcoreapp3.1\Base.dll
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Base\obj\Release\netcoreapp3.1\Base.pdb
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Base\obj\Release\netcoreapp3.1\Base.genruntimeconfig.cache

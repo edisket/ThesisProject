@@ -1,0 +1,12 @@
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Transaction\bin\Debug\netcoreapp3.1\Transaction.deps.json
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Transaction\bin\Debug\netcoreapp3.1\Transaction.runtimeconfig.json
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Transaction\bin\Debug\netcoreapp3.1\Transaction.runtimeconfig.dev.json
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Transaction\bin\Debug\netcoreapp3.1\Transaction.dll
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Transaction\bin\Debug\netcoreapp3.1\Transaction.pdb
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Transaction\obj\Debug\netcoreapp3.1\Transaction.csprojAssemblyReference.cache
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Transaction\obj\Debug\netcoreapp3.1\Transaction.AssemblyInfoInputs.cache
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Transaction\obj\Debug\netcoreapp3.1\Transaction.AssemblyInfo.cs
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Transaction\obj\Debug\netcoreapp3.1\Transaction.csproj.CoreCompileInputs.cache
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Transaction\obj\Debug\netcoreapp3.1\Transaction.dll
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Transaction\obj\Debug\netcoreapp3.1\Transaction.pdb
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Transaction\obj\Debug\netcoreapp3.1\Transaction.genruntimeconfig.cache

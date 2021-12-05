@@ -1,0 +1,15 @@
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\bin\Debug\netcoreapp3.1\Auth.Entities.deps.json
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\bin\Debug\netcoreapp3.1\Auth.Entities.runtimeconfig.json
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\bin\Debug\netcoreapp3.1\Auth.Entities.runtimeconfig.dev.json
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\bin\Debug\netcoreapp3.1\Auth.Entities.dll
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\bin\Debug\netcoreapp3.1\Auth.Entities.pdb
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\bin\Debug\netcoreapp3.1\Base.dll
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\bin\Debug\netcoreapp3.1\Base.pdb
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\obj\Debug\netcoreapp3.1\Auth.Entities.csprojAssemblyReference.cache
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\obj\Debug\netcoreapp3.1\Auth.Entities.AssemblyInfoInputs.cache
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\obj\Debug\netcoreapp3.1\Auth.Entities.AssemblyInfo.cs
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\obj\Debug\netcoreapp3.1\Auth.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\obj\Debug\netcoreapp3.1\Auth.Entities.csproj.CopyComplete
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\obj\Debug\netcoreapp3.1\Auth.Entities.dll
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\obj\Debug\netcoreapp3.1\Auth.Entities.pdb
+C:\Users\Edison\Repository\Freelance\ThesisProject\API\Auth.Entities\obj\Debug\netcoreapp3.1\Auth.Entities.genruntimeconfig.cache

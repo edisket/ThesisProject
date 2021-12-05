@@ -1,0 +1,30 @@
+
+<h1  class="p-5" style="text-align: center;">Company Management Application</h1>
+
+<div class="container mt-5" style="padding: 40px; width: 30%; border:1px solid gray; border-radius: 5px;">
+  
+    <h2 class="row">Sign-In</h2>
+    <div class="row">
+        <form >
+            <div class="form-group">
+                <label for="usernameInput" >Username</label>
+                <input type="text" class="form-control" [formControl]="this.GetControl('username')" >
+            </div>
+            <div class="form-group">
+                <label for="usernameInput">Password</label>
+                <input type="password" class="form-control" [formControl]="this.GetControl('password')">
+            </div>
+        </form>
+
+        
+       
+    </div>
+    <div class="row mt-5">
+        <div class="col"></div>
+        <div class="col">
+            <button style="width: 100px; float: right; margin-left: 10px;" class="btn btn-primary">Sign Up</button>
+            <button style="width: 100px; float: right;" class="btn btn-primary" (click)="this.OnLogin()">Log-In</button>
+        </div>
+        
+    </div>
+</div>
